@@ -1,4 +1,4 @@
 # PyTorch backward function examples
 
-Examples from https://medium.com/p/e5e2b7e60140 .
+Examples from blog [post](https://monads.substack.com/p/pytorch-backward-function).
 
